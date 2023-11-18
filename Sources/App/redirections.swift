@@ -1,0 +1,2 @@
+let redirections: [String : WebFingerRedirectionDestination] = [
+]
